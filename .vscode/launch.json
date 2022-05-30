@@ -4,7 +4,13 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Launch JavaFormatprint",
+            "request": "launch",
+            "mainClass": "JavaFormatprint",
+            "projectName": "Project1_1136f1eb"
+        },
         {
             "name": "Connect to server",
             "type": "go",
@@ -21,7 +27,6 @@
             "mode": "local",
             "processId": 0
         },
-
         {
             "type": "java",
             "name": "Attach",
